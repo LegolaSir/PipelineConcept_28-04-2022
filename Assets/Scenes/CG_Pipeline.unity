@@ -5224,11 +5224,11 @@ MonoBehaviour:
   - {fileID: 1867171241}
   - {fileID: 509005680}
   - {fileID: 753181016}
-  test:
+  sliderValues:
   - 0
   - 0
   - 0
-  result: {x: 0, y: 0, z: 0}
+  rotatedPos: {x: 0, y: 0, z: 0}
 --- !u!1 &2110644241
 GameObject:
   m_ObjectHideFlags: 0
